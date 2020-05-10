@@ -1,0 +1,1 @@
+# Unity-Google-ARCore-Camera-Freeze-on-Scene-Reload
